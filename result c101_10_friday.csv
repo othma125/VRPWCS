@@ -1,0 +1,11 @@
+route,stop_id,next_stop_id,is_charging_station,load,visit_time_stamp,state_of_charge
+1,0,5,True,130,0,0
+1,5,3,True,130,0,40950
+1,3,7,False,130,146,66212
+1,7,8,False,120,170,62638
+1,8,9,False,100,324,57617
+1,9,6,False,80,534,54117
+1,6,4,False,70,621,50260
+1,4,2,False,50,782,46431
+1,2,1,False,40,825,40346
+1,1,0,False,10,912,36996

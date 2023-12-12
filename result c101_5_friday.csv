@@ -1,0 +1,6 @@
+route,coordinates,stop_id,next_stop_id,is_charging_station,load,visit_time_stamp,travel_time,traffic,speed,state_of_charge
+1,"(40.0, 50.0)",0,3,True,60,00:00,16.45,0.02,58.8,1.0
+1,"(42.0, 66.0)",3,4,False,60,02:26,2.0,0.0,60.0,0.6
+1,"(42.0, 68.0)",4,2,False,50,12:07,5.15,0.3,42.0,0.55
+1,"(45.0, 70.0)",2,1,False,40,13:45,2.86,0.3,42.0,0.25
+1,"(45.0, 68.0)",1,0,False,10,15:12,27.07,0.31,41.4,0.2
