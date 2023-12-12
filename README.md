@@ -1,7 +1,7 @@
 # VRP with Stationary Charging Stations
 
 ## Overview
-This project implements a solution for the Vehicle Routing Problem (VRP) with stationary charging stations using the PuLP optimization library in Python. The objective is to minimize the total cost, considering factors like travel distance, driver wages, and battery charging costs.
+This project implements a solution for the Vehicle Routing Problem (VRP) with stationary charging stations using the PuLP optimization library in Python. The objective is to minimize the total cost, considering  driver wages, and battery charging costs.
 
 ## Installation
 Requires Python 3.x and PuLP library. Install used libs using `pip install -r requirements.txt`.
